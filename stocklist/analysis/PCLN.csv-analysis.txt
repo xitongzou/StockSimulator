@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for PCLN: 
+-------------------------------------
+14-Sep-11: Bought 19 Shares at: 524.93
+9-Apr-12: Sold 19 Shares at: 746.85
+12-Apr-12: Bought 13 Shares at: 731.44
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $548.58 or below, or $768.0120000000001 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 635.03
+Resistance price is 676.31
+Std Dev = 52.94843907894312.
+The stock is not volatile.
+Total P&L for this stock is $4216.480000000001.
+Return on Investment is 42.164800000000014%
+Success rate was 66.66666666666666%.
+Commission was $29.849999999999998 for 3 trades.

@@ -1,0 +1,22 @@
+-------------------------------------
+Analyzing predictions for NVDA: 
+-------------------------------------
+11-Aug-11: Bought 810 Shares at: 12.34
+1-Sep-11: Sold 810 Shares at: 13.49
+4-Oct-11: Bought 868 Shares at: 11.52
+17-Oct-11: Sold 868 Shares at: 15.54
+24-Oct-11: Bought 687 Shares at: 14.54
+10-Feb-12: Sold 687 Shares at: 16.14
+21-May-12: Bought 826 Shares at: 12.1
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $9.075 or below, or $12.705 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 12.01
+Resistance price is 13.45
+Std Dev = 1.0352381442574796.
+The stock is not volatile.
+Total P&L for this stock is $5520.060000000001.
+Return on Investment is 55.200600000000016%
+Success rate was 85.71428571428571%.
+Commission was $69.64999999999999 for 7 trades.

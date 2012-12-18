@@ -1,0 +1,23 @@
+-------------------------------------
+Analyzing predictions for YOKU: 
+-------------------------------------
+19-Jul-11: Bought 298 Shares at: 33.5
+27-Jul-11: Sold 298 Shares at: 36.01
+11-Aug-11: Bought 459 Shares at: 21.78
+25-Aug-11: Sold 459 Shares at: 24.43
+26-Aug-11: Bought 440 Shares at: 22.69
+1-Sep-11: Sold 440 Shares at: 25.0
+7-Sep-11: Bought 442 Shares at: 22.6
+18-Apr-12: Sold 442 Shares at: 24.5
+21-May-12: Bought 488 Shares at: 20.47
+1-Jun-12: Sold 488 Shares at: 23.01
+Stock is neutral. Buy in around $18.36634999999998
+ when DJIA index <= 12644.56768,
+Support price is 18.75
+Resistance price is 19.98
+Std Dev = 6.609783202547133.
+The stock  is highly volatile.
+Total P&L for this stock is $5060.049999999999.
+Return on Investment is 50.60049999999999%
+Success rate was 100.0%.
+Commission was $99.5 for 10 trades.

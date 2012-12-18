@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for INTC: 
+-------------------------------------
+4-Oct-11: Bought 488 Shares at: 20.45
+17-Oct-11: Sold 488 Shares at: 23.32
+2-Nov-11: Bought 416 Shares at: 24.02
+8-Dec-11: Sold 416 Shares at: 25.45
+18-Jan-12: Bought 397 Shares at: 25.13
+10-Feb-12: Sold 397 Shares at: 26.74
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 25.47
+Resistance price is 27.35
+Std Dev = 1.363613951110371.
+The stock is not volatile.
+Total P&L for this stock is $2634.6099999999988.
+Return on Investment is 26.34609999999999%
+Success rate was 100.0%.
+Commission was $59.699999999999996 for 6 trades.

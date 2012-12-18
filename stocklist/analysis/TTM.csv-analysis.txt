@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for TTM: 
+-------------------------------------
+14-Sep-11: Bought 662 Shares at: 15.09
+21-Sep-11: Sold 662 Shares at: 16.8
+26-Sep-11: Bought 672 Shares at: 14.86
+28-Sep-11: Sold 672 Shares at: 15.89
+4-Oct-11: Bought 681 Shares at: 14.67
+17-Oct-11: Sold 681 Shares at: 18.81
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 23.51
+Resistance price is 27.49
+Std Dev = 3.132662704583704.
+The stock is moderately volatile.
+Total P&L for this stock is $4643.519999999999.
+Return on Investment is 46.43519999999999%
+Success rate was 100.0%.
+Commission was $59.699999999999996 for 6 trades.

@@ -1,0 +1,15 @@
+-------------------------------------
+Analyzing predictions for CHL: 
+-------------------------------------
+18-Jan-12: Bought 205 Shares at: 48.61
+9-Apr-12: Sold 205 Shares at: 53.56
+Stock is neutral. Buy in around $52.15310000000001
+ when DJIA index <= 13099.0624,
+Support price is 54.23
+Resistance price is 55.86
+Std Dev = 1.4512819131963473.
+The stock is not volatile.
+Total P&L for this stock is $1014.7500000000018.
+Return on Investment is 10.147500000000019%
+Success rate was 100.0%.
+Commission was $19.9 for 2 trades.

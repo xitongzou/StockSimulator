@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for LNKD: 
+-------------------------------------
+11-Aug-11: Bought 115 Shares at: 86.29
+25-Oct-11: Sold 115 Shares at: 91.43
+21-May-12: Bought 103 Shares at: 96.28
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $72.21000000000001 or below, or $101.09400000000001 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 96.28
+Resistance price is 112.0
+Std Dev = 8.694999186787605.
+The stock is not volatile.
+Total P&L for this stock is $591.1000000000004.
+Return on Investment is 5.911000000000004%
+Success rate was 66.66666666666666%.
+Commission was $29.849999999999998 for 3 trades.

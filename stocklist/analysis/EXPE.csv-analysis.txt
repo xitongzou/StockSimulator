@@ -1,0 +1,15 @@
+-------------------------------------
+Analyzing predictions for EXPE: 
+-------------------------------------
+19-Jul-11: Bought 166 Shares at: 60.08
+10-Feb-12: Sold 166 Shares at: 31.91
+Stock is neutral. Buy in around $40.36549999999999
+ when DJIA index <= 12391.97472,
+Support price is 40.8
+Resistance price is 45.68
+Std Dev = 7.0451282991126405.
+The stock is moderately volatile.
+Total P&L for this stock is $-4676.219999999998.
+Return on Investment is -46.762199999999986%
+Success rate was 0.0%.
+Commission was $19.9 for 2 trades.

@@ -1,0 +1,29 @@
+-------------------------------------
+Analyzing predictions for SNDK: 
+-------------------------------------
+11-Aug-11: Bought 272 Shares at: 36.71
+21-Sep-11: Sold 272 Shares at: 42.87
+26-Sep-11: Bought 236 Shares at: 42.2
+17-Oct-11: Sold 236 Shares at: 46.44
+18-Oct-11: Bought 217 Shares at: 45.92
+25-Oct-11: Sold 217 Shares at: 49.93
+26-Oct-11: Bought 199 Shares at: 50.19
+8-May-12: Sold 199 Shares at: 35.54
+15-Jun-12: Bought 282 Shares at: 35.34
+24-Jul-12: Sold 282 Shares at: 40.38
+3-Aug-12: Bought 240 Shares at: 41.6
+10-Sep-12: Sold 240 Shares at: 44.06
+13-Sep-12: Bought 221 Shares at: 45.13
+Stock is neutral. Buy in around $40.229649999999964
+ when DJIA index <= 12644.56768,
+Sell it at $33.847500000000004 or below, or $47.386500000000005 or above 
+
+ when DJIA index >= 12644.56768,
+Support price is 40.26
+Resistance price is 44.43
+Std Dev = 11.167442384104731.
+The stock  is highly volatile.
+Total P&L for this stock is $2642.659999999997.
+Return on Investment is 26.426599999999972%
+Success rate was 76.92307692307693%.
+Commission was $129.35 for 13 trades.

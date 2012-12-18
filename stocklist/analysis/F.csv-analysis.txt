@@ -1,0 +1,16 @@
+-------------------------------------
+Analyzing predictions for F: 
+-------------------------------------
+26-Aug-11: Bought 982 Shares at: 10.18
+17-Oct-11: Sold 982 Shares at: 11.71
+2-Nov-11: Bought 888 Shares at: 11.26
+10-Feb-12: Sold 888 Shares at: 12.52
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 10.02
+Resistance price is 10.61
+Std Dev = 1.0231851216194685.
+The stock is not volatile.
+Total P&L for this stock is $2621.340000000002.
+Return on Investment is 26.21340000000002%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

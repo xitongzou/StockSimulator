@@ -1,0 +1,15 @@
+-------------------------------------
+Analyzing predictions for QIHU: 
+-------------------------------------
+20-Dec-11: Bought 584 Shares at: 17.11
+9-Apr-12: Sold 584 Shares at: 22.45
+Stock is on an uptrend. Expect to buy it around $22.77199999999997
+ when DJIA index <= 12644.56768,
+Support price is 20.62
+Resistance price is 23.82
+Std Dev = 2.9269256064592972.
+The stock is moderately volatile.
+Total P&L for this stock is $3118.5599999999995.
+Return on Investment is 31.185599999999994%
+Success rate was 100.0%.
+Commission was $19.9 for 2 trades.

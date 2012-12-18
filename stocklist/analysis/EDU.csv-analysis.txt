@@ -1,0 +1,24 @@
+-------------------------------------
+Analyzing predictions for EDU: 
+-------------------------------------
+26-Aug-11: Bought 375 Shares at: 26.62
+2-Sep-11: Sold 375 Shares at: 29.49
+26-Sep-11: Bought 354 Shares at: 28.23
+17-Oct-11: Sold 354 Shares at: 29.96
+20-Dec-11: Bought 456 Shares at: 21.91
+28-Dec-11: Sold 456 Shares at: 24.04
+18-Jan-12: Bought 449 Shares at: 22.24
+10-Feb-12: Sold 449 Shares at: 25.0
+21-May-12: Bought 384 Shares at: 26.02
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $19.515 or below, or $27.321 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 26.02
+Resistance price is 27.5
+Std Dev = 1.7398444661186063.
+The stock is not volatile.
+Total P&L for this stock is $3899.1900000000005.
+Return on Investment is 38.99190000000001%
+Success rate was 88.88888888888889%.
+Commission was $89.55 for 9 trades.

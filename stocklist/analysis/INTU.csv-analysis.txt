@@ -1,0 +1,17 @@
+-------------------------------------
+Analyzing predictions for INTU: 
+-------------------------------------
+4-Oct-11: Bought 220 Shares at: 45.27
+17-Oct-11: Sold 220 Shares at: 52.72
+2-Nov-11: Bought 190 Shares at: 52.52
+10-Feb-12: Sold 190 Shares at: 56.98
+Stock is neutral. Buy in around $52.684150000000024
+ when DJIA index <= 12391.97472,
+Support price is 54.52
+Resistance price is 56.52
+Std Dev = 2.851926106553497.
+The stock is not volatile.
+Total P&L for this stock is $2486.399999999996.
+Return on Investment is 24.86399999999996%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

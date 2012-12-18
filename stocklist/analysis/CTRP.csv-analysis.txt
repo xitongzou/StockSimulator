@@ -1,0 +1,21 @@
+-------------------------------------
+Analyzing predictions for CTRP: 
+-------------------------------------
+11-Aug-11: Bought 256 Shares at: 39.04
+1-Sep-11: Sold 256 Shares at: 41.62
+3-Feb-12: Bought 396 Shares at: 25.23
+11-Jun-12: Sold 396 Shares at: 18.73
+24-Aug-12: Bought 576 Shares at: 17.35
+Stock is neutral. Buy in around $19.057950000000098
+ when DJIA index <= 12644.56768,
+Sell it at $13.012500000000001 or below, or $19.085000000000004 or above 
+
+ when DJIA index >= 12644.56768,
+Support price is 19.4
+Resistance price is 21.45
+Std Dev = 5.871209195199332.
+The stock  is highly volatile.
+Total P&L for this stock is $-1913.5200000000004.
+Return on Investment is -19.135200000000005%
+Success rate was 40.0%.
+Commission was $49.75 for 5 trades.

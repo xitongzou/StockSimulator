@@ -1,0 +1,17 @@
+-------------------------------------
+Analyzing predictions for MSFT: 
+-------------------------------------
+11-Aug-11: Bought 408 Shares at: 24.5
+1-Sep-11: Sold 408 Shares at: 26.46
+26-Oct-11: Bought 369 Shares at: 27.03
+10-Feb-12: Sold 369 Shares at: 30.64
+Stock is on an uptrend. Expect to buy it around $31.849000000000007
+ when DJIA index <= 13099.0624,
+Support price is 30.99
+Resistance price is 32.31
+Std Dev = 1.260975868826396.
+The stock is not volatile.
+Total P&L for this stock is $2131.7700000000004.
+Return on Investment is 21.317700000000006%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

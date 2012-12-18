@@ -1,0 +1,16 @@
+-------------------------------------
+Analyzing predictions for DELL: 
+-------------------------------------
+28-Jun-11: Bought 626 Shares at: 15.97
+8-Jul-11: Sold 626 Shares at: 16.98
+4-Oct-11: Bought 729 Shares at: 13.7
+17-Oct-11: Sold 729 Shares at: 16.33
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 12.54
+Resistance price is 15.52
+Std Dev = 1.330417786482896.
+The stock is not volatile.
+Total P&L for this stock is $2549.529999999997.
+Return on Investment is 25.495299999999972%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

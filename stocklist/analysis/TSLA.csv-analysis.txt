@@ -1,0 +1,19 @@
+-------------------------------------
+Analyzing predictions for TSLA: 
+-------------------------------------
+4-Oct-11: Bought 429 Shares at: 23.29
+17-Oct-11: Sold 429 Shares at: 27.86
+12-Apr-12: Bought 296 Shares at: 33.77
+Stock is neutral. Buy in around $28.41260000000001
+ when DJIA index <= 12391.97472,
+Sell it at $25.3275 or below, or $35.45850000000001 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 27.58
+Resistance price is 32.49
+Std Dev = 2.778437762898224.
+The stock is not volatile.
+Total P&L for this stock is $1960.5300000000007.
+Return on Investment is 19.605300000000007%
+Success rate was 66.66666666666666%.
+Commission was $29.849999999999998 for 3 trades.

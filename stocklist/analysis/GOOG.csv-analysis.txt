@@ -1,0 +1,16 @@
+-------------------------------------
+Analyzing predictions for GOOG: 
+-------------------------------------
+11-Aug-11: Bought 18 Shares at: 553.82
+17-Oct-11: Sold 18 Shares at: 583.72
+21-May-12: Bought 16 Shares at: 600.51
+21-Aug-12: Sold 16 Shares at: 673.11
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 740.13
+Resistance price is 770.71
+Std Dev = 41.723671188113165.
+The stock is not volatile.
+Total P&L for this stock is $1699.800000000001.
+Return on Investment is 16.99800000000001%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

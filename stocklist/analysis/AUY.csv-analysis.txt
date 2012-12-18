@@ -1,0 +1,21 @@
+-------------------------------------
+Analyzing predictions for AUY: 
+-------------------------------------
+24-Aug-11: Bought 662 Shares at: 15.1
+1-Sep-11: Sold 662 Shares at: 15.88
+26-Sep-11: Bought 734 Shares at: 13.61
+17-Oct-11: Sold 734 Shares at: 15.18
+24-Oct-11: Bought 688 Shares at: 14.52
+14-Nov-11: Sold 688 Shares at: 16.42
+20-Dec-11: Bought 702 Shares at: 14.23
+10-Feb-12: Sold 702 Shares at: 16.15
+Stock is on an uptrend. Expect to buy it around $13.684000000000006
+ when DJIA index <= 12391.97472,
+Support price is 12.68
+Resistance price is 14.73
+Std Dev = 1.1815971478991307.
+The stock is not volatile.
+Total P&L for this stock is $4323.780000000001.
+Return on Investment is 43.23780000000001%
+Success rate was 100.0%.
+Commission was $79.6 for 8 trades.

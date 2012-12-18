@@ -1,0 +1,15 @@
+-------------------------------------
+Analyzing predictions for FDX: 
+-------------------------------------
+26-Sep-11: Bought 146 Shares at: 68.1
+17-Oct-11: Sold 146 Shares at: 75.47
+Stock is neutral. Buy in around $83.14684999999999
+ when DJIA index <= 12391.97472,
+Support price is 85.01
+Resistance price is 88.84
+Std Dev = 4.3499605194843625.
+The stock is not volatile.
+Total P&L for this stock is $1076.0200000000004.
+Return on Investment is 10.760200000000005%
+Success rate was 100.0%.
+Commission was $19.9 for 2 trades.

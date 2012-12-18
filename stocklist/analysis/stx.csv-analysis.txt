@@ -1,0 +1,27 @@
+-------------------------------------
+Analyzing predictions for stx: 
+-------------------------------------
+19-Jul-11: Bought 601 Shares at: 16.62
+2-Sep-11: Sold 601 Shares at: 11.03
+14-Sep-11: Bought 866 Shares at: 11.54
+25-Oct-11: Sold 866 Shares at: 15.49
+26-Oct-11: Bought 636 Shares at: 15.71
+14-Nov-11: Sold 636 Shares at: 17.71
+18-Jan-12: Bought 515 Shares at: 19.41
+10-Feb-12: Sold 515 Shares at: 26.25
+21-May-12: Bought 371 Shares at: 26.89
+21-Aug-12: Sold 371 Shares at: 35.25
+24-Aug-12: Bought 297 Shares at: 33.58
+Stock is neutral. Buy in around $27.141500000000057
+ when DJIA index <= 12644.56768,
+Sell it at $25.185 or below, or $35.259 or above 
+
+ when DJIA index >= 12644.56768,
+Support price is 27.34
+Resistance price is 29.82
+Std Dev = 5.438033309557968.
+The stock is moderately volatile.
+Total P&L for this stock is $7957.2699999999995.
+Return on Investment is 79.5727%
+Success rate was 72.72727272727273%.
+Commission was $109.44999999999999 for 11 trades.

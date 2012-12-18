@@ -1,0 +1,22 @@
+-------------------------------------
+Analyzing predictions for NFLX: 
+-------------------------------------
+19-Jul-11: Bought 35 Shares at: 284.0
+2-Sep-11: Sold 35 Shares at: 208.71
+26-Oct-11: Bought 127 Shares at: 78.73
+14-Nov-11: Sold 127 Shares at: 87.99
+20-Dec-11: Bought 145 Shares at: 68.65
+10-Feb-12: Sold 145 Shares at: 124.05
+12-Apr-12: Bought 98 Shares at: 101.26
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $75.94500000000001 or below, or $106.32300000000001 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 67.47
+Resistance price is 77.78
+Std Dev = 28.56901844589147.
+The stock  is highly volatile.
+Total P&L for this stock is $6573.869999999999.
+Return on Investment is 65.7387%
+Success rate was 57.14285714285714%.
+Commission was $69.64999999999999 for 7 trades.

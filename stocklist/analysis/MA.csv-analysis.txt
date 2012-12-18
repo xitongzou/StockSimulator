@@ -1,0 +1,16 @@
+-------------------------------------
+Analyzing predictions for MA: 
+-------------------------------------
+4-Oct-11: Bought 32 Shares at: 307.97
+17-Oct-11: Sold 32 Shares at: 340.84
+26-Oct-11: Bought 30 Shares at: 332.6
+31-Oct-11: Sold 30 Shares at: 351.15
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 396.0
+Resistance price is 420.06
+Std Dev = 22.524026875020986.
+The stock is not volatile.
+Total P&L for this stock is $1608.3399999999983.
+Return on Investment is 16.083399999999983%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

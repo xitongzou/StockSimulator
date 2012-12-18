@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for AIG: 
+-------------------------------------
+19-Jul-11: Bought 361 Shares at: 27.7
+27-Jul-11: Sold 361 Shares at: 29.27
+26-Sep-11: Bought 444 Shares at: 22.52
+25-Oct-11: Sold 444 Shares at: 24.83
+2-Nov-11: Bought 416 Shares at: 24.02
+10-Feb-12: Sold 416 Shares at: 26.93
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 28.59
+Resistance price is 31.7
+Std Dev = 2.386055745993482.
+The stock is not volatile.
+Total P&L for this stock is $2802.9699999999993.
+Return on Investment is 28.029699999999995%
+Success rate was 100.0%.
+Commission was $59.699999999999996 for 6 trades.

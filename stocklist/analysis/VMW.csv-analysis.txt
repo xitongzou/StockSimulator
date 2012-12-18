@@ -1,0 +1,16 @@
+-------------------------------------
+Analyzing predictions for VMW: 
+-------------------------------------
+4-Oct-11: Bought 128 Shares at: 77.65
+17-Oct-11: Sold 128 Shares at: 93.05
+20-Dec-11: Bought 116 Shares at: 85.66
+10-Feb-12: Sold 116 Shares at: 94.0
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Support price is 98.77
+Resistance price is 101.91
+Std Dev = 7.811831898666677.
+The stock is not volatile.
+Total P&L for this stock is $2938.6399999999994.
+Return on Investment is 29.386399999999995%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

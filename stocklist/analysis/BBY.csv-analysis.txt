@@ -1,0 +1,26 @@
+-------------------------------------
+Analyzing predictions for BBY: 
+-------------------------------------
+27-Jun-11: Bought 309 Shares at: 32.28
+9-Sep-11: Sold 309 Shares at: 23.87
+14-Sep-11: Bought 433 Shares at: 23.07
+21-Sep-11: Sold 433 Shares at: 24.85
+4-Oct-11: Bought 457 Shares at: 21.84
+17-Oct-11: Sold 457 Shares at: 25.43
+24-Oct-11: Bought 382 Shares at: 26.12
+1-Jun-12: Sold 382 Shares at: 18.29
+15-Jun-12: Bought 504 Shares at: 19.83
+5-Jul-12: Sold 504 Shares at: 21.91
+13-Jul-12: Bought 529 Shares at: 18.87
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $14.1525 or below, or $20.757 or above 
+
+ when DJIA index >= 12948.397439999999,
+Support price is 16.38
+Resistance price is 20.37
+Std Dev = 8.575343507077033.
+The stock  is highly volatile.
+Total P&L for this stock is $-2130.0599999999986.
+Return on Investment is -21.300599999999985%
+Success rate was 54.54545454545454%.
+Commission was $109.44999999999999 for 11 trades.

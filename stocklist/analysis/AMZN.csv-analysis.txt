@@ -1,0 +1,18 @@
+-------------------------------------
+Analyzing predictions for AMZN: 
+-------------------------------------
+4-Oct-11: Bought 47 Shares at: 209.62
+17-Oct-11: Sold 47 Shares at: 244.29
+24-Oct-11: Bought 42 Shares at: 236.02
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $177.01500000000001 or below, or $247.82100000000003 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 214.03
+Resistance price is 226.5
+Std Dev = 19.73935712870119.
+The stock is not volatile.
+Total P&L for this stock is $1629.4899999999998.
+Return on Investment is 16.2949%
+Success rate was 66.66666666666666%.
+Commission was $29.849999999999998 for 3 trades.

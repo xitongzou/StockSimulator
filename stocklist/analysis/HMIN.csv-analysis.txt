@@ -1,0 +1,17 @@
+-------------------------------------
+Analyzing predictions for HMIN: 
+-------------------------------------
+26-Sep-11: Bought 295 Shares at: 33.82
+23-Apr-12: Sold 295 Shares at: 25.15
+24-Aug-12: Bought 426 Shares at: 23.43
+9-Oct-12: Sold 426 Shares at: 27.32
+Stock is on an uptrend. Expect to buy it around $27.550000000000004
+ when DJIA index <= 13444.81408,
+Support price is 26.3
+Resistance price is 29.17
+Std Dev = 3.0152843660970117.
+The stock is moderately volatile.
+Total P&L for this stock is $-900.5100000000002.
+Return on Investment is -9.005100000000002%
+Success rate was 50.0%.
+Commission was $39.8 for 4 trades.

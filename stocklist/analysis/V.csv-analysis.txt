@@ -1,0 +1,17 @@
+-------------------------------------
+Analyzing predictions for V: 
+-------------------------------------
+4-Oct-11: Bought 120 Shares at: 83.04
+17-Oct-11: Sold 120 Shares at: 93.13
+26-Oct-11: Bought 108 Shares at: 92.14
+8-Dec-11: Sold 108 Shares at: 96.94
+Stock is neutral. Buy in around $111.01035000000014
+ when DJIA index <= 12391.97472,
+Support price is 113.27
+Resistance price is 119.72
+Std Dev = 4.5410968736740225.
+The stock is not volatile.
+Total P&L for this stock is $1729.199999999997.
+Return on Investment is 17.29199999999997%
+Success rate was 100.0%.
+Commission was $39.8 for 4 trades.

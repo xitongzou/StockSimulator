@@ -1,0 +1,22 @@
+-------------------------------------
+Analyzing predictions for WDC: 
+-------------------------------------
+19-Jul-11: Bought 269 Shares at: 37.05
+22-Sep-11: Sold 269 Shares at: 26.68
+26-Sep-11: Bought 376 Shares at: 26.58
+28-Sep-11: Sold 376 Shares at: 28.25
+12-Apr-12: Bought 261 Shares at: 38.25
+23-Apr-12: Sold 261 Shares at: 40.95
+21-May-12: Bought 285 Shares at: 35.07
+Stock is on a downtrend. Do not buy it. Expect to short it/sell it. 
+Sell it at $26.302500000000002 or below, or $36.8235 or above 
+
+ when DJIA index >= 12391.97472,
+Support price is 33.95
+Resistance price is 40.36
+Std Dev = 3.387547830882005.
+The stock is not volatile.
+Total P&L for this stock is $-1456.909999999998.
+Return on Investment is -14.569099999999981%
+Success rate was 57.14285714285714%.
+Commission was $69.64999999999999 for 7 trades.
